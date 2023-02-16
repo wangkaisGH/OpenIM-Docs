@@ -599,7 +599,7 @@
 
 ## dismissGroup
 
-> 拒绝入群请求。
+> 解散群聊请求。
 
 - Example:
 
